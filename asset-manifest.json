@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/protoenergy_dashboard_app/static/css/main.b90ff6b2.css",
-    "main.js": "/protoenergy_dashboard_app/static/js/main.580af65a.js",
+    "main.js": "/protoenergy_dashboard_app/static/js/main.9ba72b63.js",
     "index.html": "/protoenergy_dashboard_app/index.html",
     "main.b90ff6b2.css.map": "/protoenergy_dashboard_app/static/css/main.b90ff6b2.css.map",
-    "main.580af65a.js.map": "/protoenergy_dashboard_app/static/js/main.580af65a.js.map"
+    "main.9ba72b63.js.map": "/protoenergy_dashboard_app/static/js/main.9ba72b63.js.map"
   },
   "entrypoints": [
     "static/css/main.b90ff6b2.css",
-    "static/js/main.580af65a.js"
+    "static/js/main.9ba72b63.js"
   ]
 }
